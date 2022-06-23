@@ -1,7 +1,5 @@
 Hi 👋 My name is Arnav Sheth 
 ============================  
-Software Engineer 
------------------  
 I've been learning to code for a few months, starting with C and began moving to more front end languages and frameworks.  
 
 * 🌍  I'm based in Irvine, California 
